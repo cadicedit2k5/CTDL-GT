@@ -27,12 +27,24 @@
     <ClCompile Include="BTH_2_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BTH2_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTH3_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bt1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="int_stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="int_queue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
