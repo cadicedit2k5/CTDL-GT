@@ -45,6 +45,12 @@
     <ClCompile Include="BT4_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BTH5_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTh5_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bt1.h">
